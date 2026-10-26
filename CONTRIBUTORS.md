@@ -7,6 +7,6 @@
 ```
 
 ## รายชื่อ
--kittikornimc
+-kittikornimc-พัฒนาเว็บหน้าสมัคสมาชิก
 
 - instructor — ผู้ดูแล repo (ทุกฟีเจอร์)
