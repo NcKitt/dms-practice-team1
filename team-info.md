@@ -6,3 +6,5 @@
 ห้องประชุม: ห้องอบรม SAGE Camp
 เวลาประชุมทีม: 09:00 และ 13.00
 ช่องทางติดต่อ: GitHub Discussions ของ repo นี้
+
+test_card
